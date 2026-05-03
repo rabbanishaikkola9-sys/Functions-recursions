@@ -15,9 +15,9 @@
 # print(avg)
 # The above is manual way
 # Using functions
-# a=int(input("Enter the number"))
-# b=int(input("Enter the number"))
-# c=int(input("Enter the number"))
+a=int(input("Enter the number"))
+b=int(input("Enter the number"))
+c=int(input("Enter the number"))
 def avg():
     a=int(input("Enter the number"))
     b=int(input("Enter the number"))
@@ -36,3 +36,9 @@ avg()
 print("Thank you the avg is done")
 avg()
 print("Thank you the avg is done")
+# def avg1(a,b,c):
+#     average=(a+b+c)/3
+#     # print(average)
+#     return average
+# a=avg1(20,30,40)
+# print(a)
