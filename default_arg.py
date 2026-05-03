@@ -3,3 +3,5 @@ def greet(name,ending="Thank you"):
     print(ending)
 greet("rabbani","Done")
 greet("Rohan")
+greet("Hey hello","This is this ")
+greet("Hey hello")
