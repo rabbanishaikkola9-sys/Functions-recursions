@@ -27,7 +27,12 @@ def avg():
 
 
 avg()
+print("Thank you the avg is done")
 avg()
+print("Thank you the avg is done")
 avg()
+print("Thank you the avg is done")
 avg()
+print("Thank you the avg is done")
 avg()
+print("Thank you the avg is done")
