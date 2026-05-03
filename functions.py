@@ -27,3 +27,7 @@ def avg():
 
 
 avg()
+avg()
+avg()
+avg()
+avg()
